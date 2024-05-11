@@ -1,15 +1,15 @@
 # Artemisinin Optimization based on Malaria Therapy: Algorithm and Applications to Medical Image Segmentation
 
-![GitHub](https://img.shields.io/github/license/aliasgharheidaricom/Artemisinin-optimization-based-on-malaria-therapy)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aliasgharheidaricom/Artemisinin-optimization-based-on-malaria-therapy)
-![GitHub repo size](https://img.shields.io/github/repo-size/aliasgharheidaricom/Artemisinin-optimization-based-on-malaria-therapy)
-![GitHub language count](https://img.shields.io/github/languages/count/aliasgharheidaricom/Artemisinin-optimization-based-on-malaria-therapy)
-![GitHub last commit](https://img.shields.io/github/last-commit/aliasgharheidaricom/Artemisinin-optimization-based-on-malaria-therapy)
-![GitHub issues](https://img.shields.io/github/issues/aliasgharheidaricom/Artemisinin-optimization-based-on-malaria-therapy)
-![GitHub forks](https://img.shields.io/github/forks/aliasgharheidaricom/Artemisinin-optimization-based-on-malaria-therapy)
-![GitHub stars](https://img.shields.io/github/stars/aliasgharheidaricom/Artemisinin-optimization-based-on-malaria-therapy)
-![GitHub watchers](https://img.shields.io/github/watchers/aliasgharheidaricom/Artemisinin-optimization-based-on-malaria-therapy)
-![GitHub contributors](https://img.shields.io/github/contributors/aliasgharheidaricom/Artemisinin-optimization-based-on-malaria-therapy)
+![GitHub](https://img.shields.io/github/license/aliasgharheidaricom/Artemisinin-Optimizer-using-Malaria-Therapy-Algorithm-and-Applications-to-Medical-Image-Segmentation)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aliasgharheidaricom/Artemisinin-Optimizer-using-Malaria-Therapy-Algorithm-and-Applications-to-Medical-Image-Segmentation)
+![GitHub repo size](https://img.shields.io/github/repo-size/aliasgharheidaricom/Artemisinin-Optimizer-using-Malaria-Therapy-Algorithm-and-Applications-to-Medical-Image-Segmentation)
+![GitHub language count](https://img.shields.io/github/languages/count/aliasgharheidaricom/Artemisinin-Optimizer-using-Malaria-Therapy-Algorithm-and-Applications-to-Medical-Image-Segmentation)
+![GitHub last commit](https://img.shields.io/github/last-commit/aliasgharheidaricom/Artemisinin-Optimizer-using-Malaria-Therapy-Algorithm-and-Applications-to-Medical-Image-Segmentation)
+![GitHub issues](https://img.shields.io/github/issues/aliasgharheidaricom/Artemisinin-Optimizer-using-Malaria-Therapy-Algorithm-and-Applications-to-Medical-Image-Segmentation)
+![GitHub forks](https://img.shields.io/github/forks/aliasgharheidaricom/Artemisinin-Optimizer-using-Malaria-Therapy-Algorithm-and-Applications-to-Medical-Image-Segmentation)
+![GitHub stars](https://img.shields.io/github/stars/aliasgharheidaricom/Artemisinin-Optimizer-using-Malaria-Therapy-Algorithm-and-Applications-to-Medical-Image-Segmentation)
+![GitHub watchers](https://img.shields.io/github/watchers/aliasgharheidaricom/Artemisinin-Optimizer-using-Malaria-Therapy-Algorithm-and-Applications-to-Medical-Image-Segmentation)
+![GitHub contributors](https://img.shields.io/github/contributors/aliasgharheidaricom/Artemisinin-Optimizer-using-Malaria-Therapy-Algorithm-and-Applications-to-Medical-Image-Segmentation)
 
 Version 1.0, uploaded on 5 11 2024, has been developed based on the Artemisinin Optimization (AO) algorithm introduced in the paper "Artemisinin Optimization based on Malaria Therapy: Algorithm and Applications to Medical Image Segmentation" authored by Chong Yuan, Dong Zhao, Ali Asghar Heidari, Lei Liu, Yi Chen, Zongda Wu, and Huiling Chen.
 
