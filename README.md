@@ -99,14 +99,14 @@ Explore the applications of the Artemisinin Optimization algorithm in medical im
 
 For detailed experiments, evaluation metrics, and results, refer to the [Applications.md](applications.md) file.
 
-![Flowchart of MTIS Method](The%20flowchart%20of%20MTIS%20method.png)
+![Flowchart of MTIS Method](Flowchart of MTIS Method.png)
 
 ## Contributing
 
 We welcome contributions from the community! If you'd like to contribute to the Artemisinin Optimization project, please contact us. If you have any questions, suggestions, or feedback, feel free to reach out to the authors:
 
-- **Dong Zhao**
-  - Email: [zd-hy@163.com](mailto:zd-hy@163.com)
+- **Ali Asghar Heidari**
+  - Email: [aliasghar68@gmail.com](mailto:aliasghar68@gmail.com)
 
 - **Huiling Chen**
   - Email: [chenhuiling.jlu@gmail.com](mailto:chenhuiling.jlu@gmail.com)
@@ -123,17 +123,15 @@ The Artemisinin Optimization algorithm is licensed under the [MIT License](LICEN
 
 If you have any questions, feedback, or collaboration inquiries, feel free to reach out to us:
 
-- **Dong Zhao**
-  - Email: [zd-hy@163.com](mailto:zd-hy@163.com)
+- **Ali Asghar Heidari**
+  - Email: [aliasghar68@gmail.com](mailto:aliasghar68@gmail.com)
 
 - **Huiling Chen**
   - Email: [chenhuiling.jlu@gmail.com](mailto:chenhuiling.jlu@gmail.com)
 
 ## Citation
 
-If you use the Artemisinin Optimization algorithm in your academic research, please cite our paper:
-
-[Include citation information here]
+If you use the Artemisinin Optimization algorithm in your academic research, please cite our paper 
 
 ## Supplementary Files and Code
 
