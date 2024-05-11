@@ -108,11 +108,21 @@ For detailed experiments, evaluation metrics, and results, refer to the [Applica
 
 We welcome contributions from the community! If you'd like to contribute to the Artemisinin Optimization project, please contact us. If you have any questions, suggestions, or feedback, feel free to reach out to the authors:
 
+- **Chong Yuan**
+  - Email: [yc18338414794@163.com](mailto:yc18338414794@163.com)
+  - Affiliation: College of Computer Science and Technology, Changchun Normal University, Changchun, Jilin 130032, China
+
+- **Dong Zhao**
+  - Email: [zd-hy@163.com](mailto:zd-hy@163.com)
+  - Affiliation: College of Computer Science and Technology, Changchun Normal University, Changchun, Jilin 130032, China
+
 - **Ali Asghar Heidari**
-  - Email: [aliasghar68@gmail.com](mailto:aliasghar68@gmail.com)
+  - Email: [as_heidari@ut.ac.ir](mailto:as_heidari@ut.ac.ir), [aliasghar68@gmail.com](mailto:aliasghar68@gmail.com)
+  - Affiliation: School of Surveying and Geospatial Engineering, College of Engineering, University of Tehran, Tehran, Iran
 
 - **Huiling Chen**
   - Email: [chenhuiling.jlu@gmail.com](mailto:chenhuiling.jlu@gmail.com)
+  - Affiliation: Key Laboratory of Intelligent Informatics for Safety & Emergency of Zhejiang Province, Wenzhou University, Wenzhou 325035, China
 
 ## Acknowledgments
 
@@ -126,12 +136,21 @@ The Artemisinin Optimization algorithm is licensed under the [MIT License](LICEN
 
 If you have any questions, feedback, or collaboration inquiries, feel free to reach out to us:
 
+- **Chong Yuan**
+  - Email: [yc18338414794@163.com](mailto:yc18338414794@163.com)
+  - Affiliation: College of Computer Science and Technology, Changchun Normal University, Changchun, Jilin 130032, China
+
+- **Dong Zhao**
+  - Email: [zd-hy@163.com](mailto:zd-hy@163.com)
+  - Affiliation: College of Computer Science and Technology, Changchun Normal University, Changchun, Jilin 130032, China
+
 - **Ali Asghar Heidari**
-  - Email: [aliasghar68@gmail.com](mailto:aliasghar68@gmail.com)
+  - Email: [as_heidari@ut.ac.ir](mailto:as_heidari@ut.ac.ir), [aliasghar68@gmail.com](mailto:aliasghar68@gmail.com)
+  - Affiliation: School of Surveying and Geospatial Engineering, College of Engineering, University of Tehran, Tehran, Iran
 
 - **Huiling Chen**
   - Email: [chenhuiling.jlu@gmail.com](mailto:chenhuiling.jlu@gmail.com)
-
+  - Affiliation: Key Laboratory of Intelligent Informatics for Safety & Emergency of Zhejiang Province, Wenzhou University, Wenzhou 325035, China
 ## Citation
 
 If you use the Artemisinin Optimization algorithm in your academic research, please cite our paper 
