@@ -18,10 +18,10 @@ Version 1.0, uploaded on 5 11 2024, has been developed based on the Artemisinin 
 Welcome to the Artemisinin Optimization repository! The Artemisinin Optimization (AO) algorithm is an efficient metaheuristic algorithm inspired by the process of artemisinin medicine therapy for malaria. This repository contains the source code for the AO algorithm, along with comprehensive documentation to aid in understanding and utilizing this powerful optimization tool.
 
 <div align="center">
-  <img src="Artemisinin cures malaria.png" width="150" />
-  <img src="Local clearance phase of particle motion.png" width="150" />
-  <img src="Malarial parasites parasitizing human body cells.png" width="150" />
-    <img src="Post-consolidation of particle motion.png" width="150" />
+  <img src="Artemisinin cures malaria.png" width="200" />
+  <img src="Local clearance phase of particle motion.png" width="200" />
+  <img src="Malarial parasites parasitizing human body cells.png" width="200" />
+    <img src="Post-consolidation of particle motion.png" width="200" />
 </div>
 
 ## Overview
@@ -102,7 +102,7 @@ Explore the applications of the Artemisinin Optimization algorithm in medical im
 
 For detailed experiments, evaluation metrics, and results, refer to the [Applications.md](applications.md) file.
 
-![Flowchart of MTIS Method](Flowchart of MTIS Method.png)
+![Flowchart of MTIS Method](Flowchart%20of%20MTIS%20Method.png)
 
 ## Contributing
 
