@@ -185,7 +185,7 @@ For additional resources, supplementary files, and open-source code, visit [alia
 
 ## MATLAB File Exchange
 
-Find the Artemisinin Optimization algorithm on MathWorks File Exchange: [Artemisinin Optimization - Algorithm and Application to Medical Image Segmentation](https://ch.mathworks.com/matlabcentral/fileexchange/...)
+Find the Artemisinin Optimization algorithm on MathWorks File Exchange: [Artemisinin Optimization - Algorithm and Application to Medical Image Segmentation](https://ch.mathworks.com/matlabcentral/fileexchange/165791-artemisinin-optimization-based-on-malaria-therapy)
 
 ## Flowchart
 
