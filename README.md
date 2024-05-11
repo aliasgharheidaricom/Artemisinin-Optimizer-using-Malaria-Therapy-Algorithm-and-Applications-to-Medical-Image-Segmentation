@@ -1,4 +1,3 @@
-```
 # Artemisinin Optimization based on Malaria Therapy: Algorithm and Applications to Medical Image Segmentation
 
 ![GitHub](https://img.shields.io/github/license/aliasgharheidaricom/Artemisinin-optimization-based-on-malaria-therapy)
@@ -12,7 +11,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/aliasgharheidaricom/Artemisinin-optimization-based-on-malaria-therapy)
 ![GitHub contributors](https://img.shields.io/github/contributors/aliasgharheidaricom/Artemisinin-optimization-based-on-malaria-therapy)
 
-Version 1.0, uploaded on [date of upload], has been developed based on the Artemisinin Optimization (AO) algorithm introduced in the paper "Artemisinin Optimization based on Malaria Therapy: Algorithm and Applications to Medical Image Segmentation" authored by Chong Yuan, Dong Zhao, Ali Asghar Heidari, Lei Liu, Yi Chen, Zongda Wu, and Huiling Chen.
+Version 1.0, uploaded on 5 11 2024, has been developed based on the Artemisinin Optimization (AO) algorithm introduced in the paper "Artemisinin Optimization based on Malaria Therapy: Algorithm and Applications to Medical Image Segmentation" authored by Chong Yuan, Dong Zhao, Ali Asghar Heidari, Lei Liu, Yi Chen, Zongda Wu, and Huiling Chen.
 
 ## Introduction
 
