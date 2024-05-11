@@ -146,7 +146,7 @@ Find the Artemisinin Optimization algorithm on MathWorks File Exchange: [Artemis
 
 ## Flowchart
 
-![Flowchart of Artemisinin Optimization (AO)](Flowchart%20of%20Artemisinin%20Optimization%20(AO).png)
+![Flowchart of Artemisinin Optimization (AO)](Flowchart%20of%20th%20AO.png)
 
 Feel free to explore the code, contribute to the project, and leverage the Artemisinin Optimization algorithm for your optimization needs. Thank you for your interest!
 ```
